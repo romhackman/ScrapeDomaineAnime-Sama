@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "anime-sama"
+version = "0.1.0"
+description = "Récupère le domaine final d'Anime-Sama"
+authors = [
+    {name="Ton Nom"}
+]
+dependencies = [
+    "requests",
+    "beautifulsoup4"
+]
