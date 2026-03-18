@@ -1,4 +1,4 @@
 [project]
-name = "anime-sama"
+name = "scrapedomaine"
 version = "0.1.0"
 dependencies = ["requests", "beautifulsoup4"]
